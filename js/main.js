@@ -32,3 +32,4 @@ btnGetTotalAmounts.addEventListener("click", howmanySweets);
 
 
 
+//COOL STUFF!!
